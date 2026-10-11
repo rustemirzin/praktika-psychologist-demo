@@ -10,4 +10,4 @@
 
 Сайт без сборки. Для локального запуска: `python3 -m http.server 4328`, затем http://localhost:4328.
 
-Шрифты Manrope — SIL Open Font License. Исходный проект: [sharanda/manrope](https://github.com/sharanda/manrope).
+Шрифты Manrope — SIL Open Font License. Исходный проект: [googlefonts/manrope](https://github.com/googlefonts/manrope).
